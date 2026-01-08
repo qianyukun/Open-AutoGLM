@@ -185,6 +185,7 @@ APP_PACKAGES: dict[str, str] = {
     "wechat": "com.tencent.mm",
     "Whatsapp": "com.whatsapp",
     "WhatsApp": "com.whatsapp",
+    "Joybuy":"com.joybuy.jdi",
 }
 
 
